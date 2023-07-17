@@ -1,0 +1,4 @@
+day,month,year,value,expense,category,source,pgt
+1,1,2023,300,walmart,market,debit card,none
+2,1,2023,150,cat food,cats,credit card,none
+3,1,2023,200,car gas,car,money,none
